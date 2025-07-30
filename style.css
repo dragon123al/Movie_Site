@@ -61,7 +61,8 @@ input {
 
 .column {
   float: left;
-  width: 25%;
+  width: 20%;
+    /* 25 -> 20 to better fit */
   padding: 10px 10px;
 }
 
